@@ -1,0 +1,6 @@
+{
+  "name": "FitApp",
+  "description": "AI-powered workout app with exercise library, muscle targeting, custom workouts, and AI generation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

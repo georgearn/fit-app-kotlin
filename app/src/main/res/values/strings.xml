@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FitApp</string>
+    <string name="tab_body">Body</string>
+    <string name="tab_workouts">Workouts</string>
+    <string name="tab_generate">Generate</string>
+    <string name="search_exercises">Search exercises, muscles, equipment...</string>
+    <string name="generate_variations">Generate Variations</string>
+    <string name="ai_workout_generator">AI Workout Coach</string>
+</resources>
